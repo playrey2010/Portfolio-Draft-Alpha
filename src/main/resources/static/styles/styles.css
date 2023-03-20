@@ -86,10 +86,8 @@ section {
   background-color: #c25acd;
 }
 
-.sec6 {
-  display: none;
-  transform: translateY(0) scale(1);
-  background-color: #62606b;
+.active {
+  display: block;
 }
 
 .controls {
